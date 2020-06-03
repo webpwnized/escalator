@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo ""
 echo "Enviroment Variables"
 cat /etc/profile 2>/dev/null
 cat /etc/bashrc 2>/dev/null

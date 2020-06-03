@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo ""
 echo "Kernel Version"
 cat /proc/version 2>/dev/null
 uname -a 2>/dev/null
